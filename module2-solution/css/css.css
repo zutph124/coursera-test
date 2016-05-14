@@ -23,6 +23,7 @@ p {
   font-family: Helvetica;
   color: blue;
   position: relative;  /* mew 2016 may 15 */ ;
+  padding: 10px;
 }
 /* Simple Responsive Framework. */
 .row {
