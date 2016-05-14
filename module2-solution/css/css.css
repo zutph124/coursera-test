@@ -16,8 +16,8 @@ div {
 p {
   border: 1px solid black;
   background-color: #eadddd;
-  width: 95%%;
-  height: 150px;
+  width: 95%;
+  height: auto /* height: 150px; */
   margin: 5px; /* margin: 0px ; */ 
   padding: 10px;
   font-family: Helvetica;
