@@ -76,7 +76,7 @@ p {
   {
     float: left;
     font-size: 0.7em;
-  /*  margin: 10px; */
+   margin: 10px; 
   }
   .col-desktop-1  { width: 8.33%;  }
   .col-desktop-2  { width: 16.66%; }
