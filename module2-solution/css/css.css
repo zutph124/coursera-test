@@ -18,7 +18,7 @@ p {
   background-color: #eadddd;
   width: 95%%;
   height: 150px;
-  margin: 0px ;
+  margin: 10 px /* margin: 0px ; */ 
   padding: 10px;
   font-family: Helvetica;
   color: blue;
@@ -71,7 +71,7 @@ p {
   {
     float: left;
     font-size: 0.7em;
-    margin: 10px;
+  /*  margin: 10px; */
   }
   .col-desktop-1  { width: 8.33%;  }
   .col-desktop-2  { width: 16.66%; }
@@ -94,7 +94,7 @@ p {
   {
     float: left;
     font-size: 0.9em;
-    margin: 10px;
+ /*  margin: 10px; */
   }
   .col-tablet-1  { width: 8.33%;  }
   .col-tablet-2  { width: 16.66%; }
@@ -117,7 +117,7 @@ p {
   {
     float: left;
     font-size: 1em;
-    margin: 10px;
+/*    margin: 10px; */
   }
   .col-mobile-1  { width: 8.33%;  }
   .col-mobile-2  { width: 16.66%; }
