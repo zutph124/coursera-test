@@ -22,7 +22,7 @@ p {
   padding: 10px;
   font-family: Helvetica;
   color: blue;
-  position: relative;  /* mew 2016 may 15 */ 
+ /*  position: relative;  mew 2016 may 15 */ 
   padding: 10px;       /* mew 2016 may 15 */ 
   clear: both;         /* mew 2016 may 15 */ 
 }
