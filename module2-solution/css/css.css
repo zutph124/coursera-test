@@ -30,7 +30,7 @@ p {
     
 .chicken {
     border: 1px solid black;
-    padding: 5px 5px 5px 5px;
+   /*  padding: 5px 5px 5px 5px; */ 
     font-size: 1.5em;
     background-color: lightyellow;
     color: black;
