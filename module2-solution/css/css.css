@@ -37,7 +37,7 @@ p {
     font-size: 1.5em;
     background-color: lightyellow;
     color: black;
-    /* position: absolute; */
+    position: absolute; 
     /* top: 0;             */
     /* right: 0;           */
     float: right;
