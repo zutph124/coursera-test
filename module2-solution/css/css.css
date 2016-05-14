@@ -34,9 +34,9 @@ p {
     font-size: 1.5em;
     background-color: lightyellow;
     color: black;
-    position: absolute;
-    /* top: 0;
-    right: 0; */
+    /* position: absolute; */
+    /* top: 0;             */
+    /* right: 0;           */
     float: right;
     width: 25%;
     text-align: center;
@@ -47,9 +47,9 @@ p {
     font-size: 1.5em;
     background-color: yellow;
     color: red;
-    position: absolute;
-    /* top: 0;
-    right: 0;  */ 
+    /* position: absolute; */
+    /* top: 0;             */
+    /* right: 0;           */ 
     float: right;
     width: 20%;
     text-align: center;
@@ -60,9 +60,9 @@ p {
     font-size: 1.5em;
     background-color: limegreen;
     color: blue;
-    position: absolute;
-    /* top: 0;
-    right: 0;  */
+    /* position: absolute; */ 
+    /* top: 0;             */ 
+    /* right: 0;           */
     float: right;
     width: 20%;
     text-align: center;
