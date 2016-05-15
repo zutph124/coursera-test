@@ -44,15 +44,12 @@ p {
 
 .chicken {
     background-color: lightyellow;
-    color: black;
     }
 .beef {
-    background-color: yellow;
-    color: red;
+    background-color: lightblue;
     }
 .sushi {
     background-color: limegreen;
-    color: blue;
    }
 /********** Desktop device **********/
 @media (min-width: 992px) {
