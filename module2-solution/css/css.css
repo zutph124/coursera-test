@@ -36,8 +36,8 @@ p {
     background-color: lightyellow;
     color: black;
     position: absolute; 
-    margin-top: 0px;           
-    margin-right: 0px;           
+    top: 0px;           
+    right: 0px;           
     float: right;
     width: 25%;
     text-align: center;
