@@ -32,7 +32,6 @@ p {
 .chicken {
     border: 1px solid black;
     padding: 5px 5px 5px 5px; 
-    font-size: 1.5em;
     background-color: lightyellow;
     color: black;
     position: absolute; 
@@ -45,7 +44,6 @@ p {
 .beef {
     border: 1px solid black;
     padding: 5px 5px 5px 5px;
-    font-size: 1.5em;
     background-color: yellow;
     color: red;
     position: absolute; 
@@ -58,7 +56,6 @@ p {
 .sushi {
     border: 1px solid black;
     padding: 5px 5px 5px 5px;
-    font-size: 1.5em;
     background-color: limegreen;
     color: blue;
     position: absolute; 
