@@ -32,17 +32,17 @@ p {
  /*   text-align: center; */
 
 h2  {
-                position: absolute;
-   		display:inline-block;
-		float:right;
-		padding:5px;
-		right: 10px;
-		top: -17px;
-		width:100px;
-		border:1px solid black;
-		text-align: center;
-		clear:right;	
-		font-size:125%;	
+      position: absolute;
+      display:inline-block;
+      float:right;
+      padding:5px;
+      right: 10px;
+      top: -17px;
+      width:100px;
+      border:1px solid black;
+      text-align: center;
+      clear:right;	
+      font-size:125%;	
 }
      
 #chicken {
