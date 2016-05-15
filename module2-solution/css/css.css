@@ -93,7 +93,7 @@ h2  {
   .col-tablet-9  { width: 74.99%; }
   .col-tablet-10 { width: 83.33%; }
   .col-tablet-11 { width: 91.66%; }
-  .col-tablet-12 { width: 97%;   }
+  .col-tablet-12 { width: 100%;   }
 }
 
 /********** Mobile device **********/
