@@ -32,6 +32,7 @@ p {
  /*   text-align: center; */
 
 .meal  {
+    position: absolute; 
     float: right;
     border: 1px solid black;
     padding: 5px;
