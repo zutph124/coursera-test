@@ -32,10 +32,12 @@ p {
  /*   text-align: center; */
 
 h2  {
-		display:inline-block;
+                position: absolute;
+   		display:inline-block;
 		float:right;
 		padding:5px;
-		margin-right:-20px;
+		right: -1px;
+		top: -17px;
 		margin-top:-35px;
 		width:100px;
 		border:1px solid black;
@@ -43,7 +45,7 @@ h2  {
 		clear:right;	
 		font-size:125%;	
 }
-
+     
 #chicken {
     background-color: lightyellow;
     }
