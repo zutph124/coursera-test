@@ -23,8 +23,6 @@ p {
   padding: 40px;
   font-family: Helvetica;
   color: blue;
- /*  position: relative;  mew 2016 may 15 */ 
- /*  clear: both;        mew 2016 may 15 */ 
 }
 /* Simple Responsive Framework. */
 .row {
@@ -51,8 +49,8 @@ p {
     background-color: yellow;
     color: red;
     position: absolute; 
-    top: 0;             
-    right: 0;           
+    top: 10px;             
+    right: 10px;           
     float: right;
     width: 20%;
     text-align: center;
@@ -64,8 +62,8 @@ p {
     background-color: limegreen;
     color: blue;
     position: absolute; 
-    top: 0;             
-    right: 0;         
+    top: 10px;             
+    right: 10px;         
     float: right;
     width: 20%;
     text-align: center;
@@ -76,8 +74,7 @@ p {
   .col-desktop-7, .col-desktop-8, .col-desktop-9, .col-desktop-10, .col-desktop-11, .col-desktop-12 
   {
     float: left;
-    font-size: 0.7em;
-  /*  margin: 10px; */
+    font-size: 1.2em;
   }
   .col-desktop-1  { width: 8.33%;  }
   .col-desktop-2  { width: 16.66%; }
@@ -99,8 +96,7 @@ p {
   .col-tablet-7, .col-tablet-8, .col-tablet-9, .col-tablet-10, .col-tablet-11, .col-tablet-12
   {
     float: left;
-    font-size: 0.9em;
- /*  margin: 10px; */
+    font-size: 1.4em;
   }
   .col-tablet-1  { width: 8.33%;  }
   .col-tablet-2  { width: 16.66%; }
@@ -122,8 +118,7 @@ p {
   .col-mobile-7, .col-mobile-8, .col-mobile-9, .col-mobile-10, .col-mobile-11, .col-mobile-12 
   {
     float: left;
-    font-size: 1em;
-/*    margin: 10px; */
+    font-size: 2em;
   }
   .col-mobile-1  { width: 8.33%;  }
   .col-mobile-2  { width: 16.66%; }
