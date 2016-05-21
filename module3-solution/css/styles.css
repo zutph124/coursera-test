@@ -13,6 +13,9 @@ body {
 h1 {
   background-color: white;
 }
+ul {
+    border: 1px solid black;
+}
 #nav-list {
   margin-top: 10px;
 }
