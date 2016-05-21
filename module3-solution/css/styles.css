@@ -13,9 +13,6 @@ body {
 h1 {
   background-color: white;
 }
-ul { 
-  margin : 0px;
-}
 li {
     border: 1px solid black;
 }
