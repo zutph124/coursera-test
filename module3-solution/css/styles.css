@@ -13,7 +13,7 @@ body {
 h1 {
   background-color: white;
 }
-ul {
+li {
     border: 1px solid black;
 }
 #nav-list {
