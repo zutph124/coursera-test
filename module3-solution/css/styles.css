@@ -7,11 +7,23 @@ body {
 
 /** HEADER **/
 #header-nav {
-//  background-color: #f6b319;
   border-radius: 0;
   border: 0;
 }
 h1 {
-//  text-align: center;
   background-color: white;
 }
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
