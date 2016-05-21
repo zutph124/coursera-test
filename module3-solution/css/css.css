@@ -11,3 +11,7 @@ body {
   border-radius: 0;
   border: 0;
 }
+h1 {
+  text-align: center;
+  background-color: white;
+}
