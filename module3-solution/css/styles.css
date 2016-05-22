@@ -1,6 +1,5 @@
 body {
   font-size: 18px;
-//  color: #fff;
   background-color: lightgrey;
   font-family: 'Oxygen', sans-serif;
 }
@@ -32,6 +31,3 @@ li {
 #nav-list a span {
   font-size: 1.8em;
 }
-// @media (max-width: @screen-xs-max) { col-xs-12 { .col-xs-12 width: 100%;   }}
-// @media (min-width: @screen-sm-min) { col-xs-12 { .col-xs-12 width: 100%;   }}
-// @media (min-width: @screen-md-min) { col-xs-12 { .col-xs-12 width: 100%;   }}
