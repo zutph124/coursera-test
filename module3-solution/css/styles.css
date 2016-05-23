@@ -9,9 +9,17 @@ body {
   border-radius: 0;
   border: 0;
 }
-#section { 
+#section-beef { 
   height: 1000px;
-  background-color: yellow;
+  background-color: lightyellow;
+}
+#section-chicken { 
+  height: 1000px;
+  background-color: lightbue;
+}
+#section-sushi { 
+  height: 1000px;
+  background-color: lightgreen;
 }
 #brand {
   font-size: 2em;
