@@ -16,6 +16,9 @@ body {
   font-size: 2em;
   text-shadow: 1px 1px 1px #222;
 }
+#sushi {
+  background-color: lightyellow;
+}
 h1 {
   background-color: white;
   text-shadow: 1px 1px 1px #222;
