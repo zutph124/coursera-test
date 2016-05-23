@@ -11,6 +11,7 @@ body {
 }
 #section { 
   height: 1000px;
+  background-color: yellow;
 }
 #brand {
   font-size: 2em;
