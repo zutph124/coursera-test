@@ -13,8 +13,7 @@ body {
   height: 1000px;
 }
 #brand {
-  font-weight: bold;
-  font-size: 1.5em;
+  font-size: 2em;
   text-shadow: 1px 1px 1px #222;
 }
 h1 {
