@@ -26,11 +26,11 @@ h1 {
   background-color: white;
   text-shadow: 1px 1px 1px #222;
 }
-section {
-height: 1000px;
+section { 
+  height: 1000px;
 } 
-
-p { margin: 20px;
+p { 
+  margin: 20px;
 }
 li {
     border: 1px solid black;
