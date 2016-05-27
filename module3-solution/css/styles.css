@@ -10,20 +10,14 @@ body {
 }
 #section-beef { 
   height: 1000px;
-      padding-right: 20px;
-    padding-left:  20px;
   background-color: lightyellow;
 }
 #section-chicken { 
   height: 1000px;
-      padding-right: 20px;
-    padding-left:  20px;
   background-color: lightblue;
 }
 #section-sushi { 
   height: 1000px;
-      padding-right: 20px;
-    padding-left:  20px;
   background-color: lightgreen;
 }
 #brand {
@@ -36,8 +30,6 @@ h1 {
   text-shadow: 1px 1px 1px #222;
 }
 p { margin: 20px;
-    padding-right: 20px;
-    padding-left:  20px;
 }
 li {
     border: 1px solid black;
