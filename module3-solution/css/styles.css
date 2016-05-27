@@ -9,15 +9,12 @@ body {
   border: 0;
 }
 #section-beef { 
-  height: 1000px;
   background-color: lightyellow;
 }
 #section-chicken { 
-  height: 1000px;
   background-color: lightblue;
 }
 #section-sushi { 
-  height: 1000px;
   background-color: lightgreen;
 }
 #brand {
@@ -29,6 +26,10 @@ h1 {
   background-color: white;
   text-shadow: 1px 1px 1px #222;
 }
+div {
+height: 1000px;
+} 
+
 p { margin: 20px;
 }
 li {
