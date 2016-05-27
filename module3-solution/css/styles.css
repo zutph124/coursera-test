@@ -1,6 +1,5 @@
 body {
   font-size: 18px;
-//  background-color: lightgrey;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -35,12 +34,8 @@ h1 {
 li {
     border: 1px solid black;
 }
-#nav-list {
-//  margin-top: 10px;
-}
 #nav-list a {
-    background-color: lightgreen;
-//  color: #951C49;
+  background-color: lightgreen;
   text-align: center;
 }
 #nav-list a:hover {
