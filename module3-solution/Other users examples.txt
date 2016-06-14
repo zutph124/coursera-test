@@ -1,2 +1,134 @@
 http://ahmedbutt7121991.github.io/coursera-test/pak_resturant/index.html
+http://reztocha.github.io/mod3assign/#sushi
+//* 	<nav class="navbar navbar-default navbar-fixed-top"> *// 
+//*   FIXED NAVBAR                                        *//
+http://a2tu.github.io/WebDevelopment/module3_solution/
+
 https://ebflute.github.io/restaurant/#top
+//*                                  *//
+//*  VERY NICE RESPONSIVE GRAPHICS   *//
+//*                                  *//
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<title>Responsive Restaurant Site</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,300,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+<script src="https://use.fontawesome.com/d00587defc.js"></script>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body><a name="top"></a>
+<nav class="navbar navbar-default">
+  <div class="container-fluid"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed visible-xs" data-toggle="collapse" data-target="#mynavbar" aria-expanded="false"> 
+      <span class="sr-only">Toggle navigation</span> 
+      <span class="icon-bar"></span> 
+      <span class="icon-bar"></span> 
+      <span class="icon-bar"></span> 
+      </button>
+      <a class="navbar-brand pull-left" href="/"><h1><i class="fa fa-cutlery" aria-hidden="true"></i> Food, LLC</h1></a> </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="mynavbar">
+      <ul class="nav navbar-nav hidden-lg hidden-md hidden-sm">
+        <li class="active"><a class="pale-orange" href="#chicken">Chicken <span class="sr-only">(current)</span></a></li>
+        <li ><a class="pink" href="#beef">Beef</a></li>
+        <li ><a class="lavendar" href="#sushi">Sushi</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+<div class="container-fluid clearfix">
+  <div class="row">
+    <h1 class="text-center">Our Menu</h1>
+    <p class="intro text-center">Dandelion zucchini burdock yarrow chickpea dandelion sorrel courgette turnip greens tigernut arugula. </p>
+  </div>
+</div>
+<div class="container-fluid col-md-12 col-xs-12 pale-orange"><a name="chicken"></a>
+  <div class="row peach">
+    <h3 class="text-center txt-white">Chicken</h3>
+  </div>
+  <div class="section pale-orange">
+    <div class="col-md-4 col-sm-12"> <img src="images/602657-sm.png" class="menu-img"> </div>
+    <div class="col-md-8 col-sm-12 col-last">
+      <h3>Fresh chickens!</h3>
+      <p ><strong>Celery quandong swiss chard chicory earthnut pea potato.</strong></p>
+      <p>Pea horseradish azuki bean lettuce avocado asparagus okra. Kohlrabi radish okra azuki bean corn fava bean mustard tigernut jicama green bean celtuce collard greens avocado quandong fennel gumbo black-eyed pea. Grape silver beet watercress potato tigernut corn groundnut. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Chickweed okra pea winter purslane coriander yarrow sweet pepper radish garlic brussels sprout groundnut summer purslane earthnut pea tomato spring onion azuki bean gourd. Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane silver beet rock melon radish asparagus spinach. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale radicchio turnip chicory salsify pea sprouts fava bean. <i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Dandelion zucchini burdock yarrow chickpea dandelion sorrel courgette turnip greens tigernut soybean radish artichoke wattle seed endive groundnut broccoli arugula. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Soko radicchio bunya nuts gram dulse silver beet parsnip napa cabbage lotus root sea lettuce brussels sprout cabbage. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <br/>
+      <br/><a name="beef"></a><a href="#top" class="btn btn-primary pull-right lifting btn-lg" role="button">Back to Top</a>
+    </div>
+  </div>
+</div>
+<div class="container-fluid col-xs-12 pink">
+  <div class="row maroon">
+    <h3 class="text-center txt-white">Beef</h3>
+  </div>
+  <div class="section pink">
+    <div class="col-md-4 col-sm-12"> <img src="images/49279556.png" class="menu-img"> </div>
+    <div class="col-md-8 col-sm-12 col-last">
+      <h3>Grown in beautiful meadows</h3>
+      <p><strong>Kohlrabi welsh onion daikon amaranth melon azuki bean garlic.</strong></p>
+      <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jÃ­cama salsify. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <br/>
+      <br/><a name="sushi"></a><a href="#top" class="btn btn-primary pull-right lifting btn-lg" role="button">Back to Top</a>
+    </div>
+  </div>
+</div>
+<div class="container-fluid col-xs-12 lavendar">
+  <div class="row soft-green">
+    <h3 class="text-center txt-white">Sushi</h3>
+  </div>
+  <div class="section lavendar">
+  <div class="col-md-4 col-sm-12"> <img src="images/octopus.png" class="menu-img">  </div>
+  <div class="col-md-8 col-sm-12 col-last">
+    <h3>Ocean Bounty!</h3>
+    <p><strong>Sea lettuce water spinach gram fava bean leek dandelion silver beet eggplant bush tomato.</strong></p>
+    <p>Catsear cauliflower garbanzo yarrow salsify chicory garlic bell pepper napa cabbage lettuce tomato kale arugula melon sierra leone bologi rutabaga tigernut. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+    <p>Sea lettuce gumbo grape kale kombu cauliflower salsify kohlrabi okra sea lettuce broccoli celery lotus root carrot winter purslane turnip greens garlic. <i class="fa fa-usd" aria-hidden="true"></i></p>
+    <p>Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jicama salsify. <i class="fa fa-usd" aria-hidden="true"></i></p>
+      <p>Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard. <i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i><i class="fa fa-usd" aria-hidden="true"></i></p>
+    <br/>
+    <br/><a href="#top" class="btn btn-primary pull-right lifting btn-lg" role="button">Back to Top</a>
+  </div>
+</div>
+</div>
+<footer class="site-footer">
+<div class="container-fluid col-xs-12 soft-gray">
+  <div class="section text-center txt-white foot-section">
+    <p>Class Assignment "Build a Restaurant Site" for Coursera HTML/CSS/JS Class</p>
+  </div>
+</div></footer>
+<!-- jQuery (Bootstrap JS plugins depend on it) --> 
+<script src="js/jquery-1.11.3.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/script.js"></script>
+</body>
+</html>
